@@ -7,6 +7,9 @@ Some code borrowed from Lesson 10: Traversals Investigate (4. Random Dog Picker 
 App Link:
 https://studio.code.org/projects/applab/JsjYMeS_JYVocWzpsLFVR5bnIRalwGfcpyCyvPxxFwk
 
+Creation Date: Mar 24, 2023
+Completion Date: Mar 25, 2023
+
 */
 
 // Retrieving dog data from "Dogs" table columns.
